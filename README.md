@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @petermamdouh
-- 👀 I’m interested in ...
+- 👋 Hi, I’m peter Abdallah
+- 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Seeking a full-time challenging career in my field where my background
+- 📫 You can reach me on {peter-mamdouh@outlook.com}
 
-<!---
-petermamdouh/petermamdouh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
